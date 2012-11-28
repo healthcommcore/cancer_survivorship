@@ -1,0 +1,4 @@
+#header .module {width: 500px;margin-left: 0;}
+#header .module ul {float: right;}
+#nav ul li li:hover, #nav ul li li.hover {position: static;}
+div.header_steth_home{background:url("../images/home/head_lg_sthscp.gif") 240px 0 no-repeat; height:126px;}
