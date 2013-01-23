@@ -296,6 +296,7 @@ div.custom_home_buttons a:hover img{
 .moduletable_news p{margin:0;}
 #home_news{padding-left:6em; margin-top:2em;}
 #home_news p{padding-right:2.5em;}
+#home_news a{word-wrap:break-word;}
 
 div.custom_home_buttons p{margin:0; position:relative;}
 div.custom_home_buttons img{width:175px; height:116px; margin:1.2em auto; display:block; border:#666 1px solid;}
